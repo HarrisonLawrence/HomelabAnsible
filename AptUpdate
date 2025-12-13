@@ -1,2 +1,0 @@
-   - name: Upgrade all apt packages
-      apt: state=latest force_apt_get=yes
